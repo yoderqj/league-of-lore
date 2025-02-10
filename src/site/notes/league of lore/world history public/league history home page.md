@@ -16,6 +16,7 @@
 - [[league of lore/world locations/Freljord\|Freljord]]
 - [[league of lore/world locations/Shurima\|Shurima]]
 	- [[league of lore/world locations/Sun Disc\|Sun Disc]]
+	- [[league of lore/world locations/shamesh\|shamesh]]
 	- [[league of lore/world locations/marrowmark\|marrowmark]]
 	- [[league of lore/world locations/city of gardens\|city of gardens]]
 	- [[league of lore/world locations/zirima\|zirima]]
