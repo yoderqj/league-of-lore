@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/league-of-lore/world-history-public/league-history-home-page/","tags":["gardenEntry"]}
 ---
 
-# league history
+# league history home page
 - [[league of lore/world history public/pre runeterra\|pre runeterra]]
 - [[league of lore/world history public/pre-timeline\|pre-timeline]]
 - [[league of lore/world history public/(9,000 BN) The Vastayashai-rei\|(9,000 BN) The Vastayashai-rei]]
