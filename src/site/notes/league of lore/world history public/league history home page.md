@@ -13,7 +13,7 @@
 - [[league of lore/world history public/(5000-4000) BN\|(5000-4000) BN]]
 - [[league of lore/world history public/(5000-2500 BN)\|(5000-2500 BN)]]
 # map of Shurima
-![less detailed map of runterra .jpg](/img/user/less%20detailed%20map%20of%20runterra%20.jpg)
+![less detailed map of runterra .jpg](/img/user/DM/pictures/less%20detailed%20map%20of%20runterra%20.jpg)
 # world locations 
 - [[league of lore/world locations/Freljord\|Freljord]]
 - [[league of lore/world locations/Shurima\|Shurima]]
