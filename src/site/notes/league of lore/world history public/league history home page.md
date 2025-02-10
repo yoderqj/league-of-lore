@@ -14,3 +14,13 @@
 - [[league of lore/world history public/(6000-5000 BN)\|(6000-5000 BN)]]
 - [[league of lore/world history public/(5000-4000) BN\|(5000-4000) BN]]
 - [[league of lore/world history public/(5000-2500 BN)\|(5000-2500 BN)]]
+# world locations 
+
+# world races
+[[league of lore/world races/humans\|humans]]
+[[league of lore/world races/minotaurs\|minotaurs]]
+[[league of lore/world races/yordles\|yordles]]
+[[league of lore/world races/yeti\|yeti]]
+[[league of lore/world races/trolls\|trolls]]
+[[league of lore/world races/brackern\|brackern]]
+# important historical figures 
