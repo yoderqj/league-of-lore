@@ -10,4 +10,4 @@
 - Kindred comes to be.
 - The Freljordian demi-gods, among them Ornn, Anivia, Valhir (aka the Volibear), the Iron Boar, the Clever Lynx, the Seal Sister and a currently unidentified two-headed raven, come in to being and shape the ancient Freljord, which was then known as Vorrijaard, before the rise of mortals.
 -  Maokai is born along with the Blessed Isles as they are formed from a volcanic eruption at sea. He uses the magical waters beneath the isles to fill them with life.
--  Various sentient species develop cultures and societies across the world, including [[humans\|humans]], [[yordles\|yordles]], [[trolls\|trolls]], [[minotaurs\|minotaurs]], [[league of lore/world history public/brackern\|league of lore/world history public/brackern]] and [[yeti\|yeti]].
+-  Various sentient species develop cultures and societies across the world, including [[humans\|humans]], [[yordles\|yordles]], [[trolls\|trolls]], [[minotaurs\|minotaurs]], [[league of lore/world races/brackern\|league of lore/world races/brackern]] and [[yeti\|yeti]].
