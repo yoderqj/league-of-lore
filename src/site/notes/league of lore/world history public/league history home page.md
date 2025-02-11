@@ -35,4 +35,5 @@
 - [[league of lore/world races/yeti\|yeti]]
 - [[league of lore/world races/trolls\|trolls]]
 - [[league of lore/world races/brackern\|brackern]]
+- [[vestaya\|vestaya]]
 # important historical figures 
